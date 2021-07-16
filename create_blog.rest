@@ -1,6 +1,6 @@
 POST  http://localhost:3003/api/blogs
 Content-Type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3QiLCJpZCI6IjYwZDM1MGY1ZGY3YWU3N2Q1OWZjNmY1YiIsImlhdCI6MTYyNDQ2MjQ2MiwiZXhwIjoxNjI0NDY2MDYyfQ.HvZKVwC98OiZv1HcqzE9NEU1BbLkBXfLG3zbtyEVbL4
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3QiLCJpZCI6IjYwZDM1MGY1ZGY3YWU3N2Q1OWZjNmY1YiIsImlhdCI6MTYyNTkxNzM4MCwiZXhwIjoxNjI1OTIwOTgwfQ.9qJ5dCShloX_R1xF6cB8SZeBqJRSc78hrDI_dlo15HA
 
 {
     "title": "Hoger Fuger II",
